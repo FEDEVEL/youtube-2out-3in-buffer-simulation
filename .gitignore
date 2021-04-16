@@ -1,0 +1,14 @@
+#Altium
+*/__Previews/
+*/History/
+* Logs*
+Project Outputs *
+*.DSNlck
+*.PrjPcbStructure
+
+#Cadence
+*/history/
+*/result/*/
+*.log*
+*.lock
+

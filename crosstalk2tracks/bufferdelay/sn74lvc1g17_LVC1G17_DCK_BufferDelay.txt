@@ -1,0 +1,7 @@
+[IBIS File]	D:\Users\robo\Github\youtube-crosstalk-2-tracks\crosstalk2tracks\asi_models\sn74lvc1g17.ibs
+[Date Modified (IBIS File)]	2021-3-15 13:43:2
+[Signal Name]	Y
+|TransmitModel       Data Rate            Rise(Fast)           Rise(Typ)            Rise(Slow)           Fall(Fast)           Fall(Typ)            Fall(Slow)          
+LVC1G17_OUT_25       1Gbps                NC                   4.82909e-09          NC                   NC                   4.73871e-09          NC                  
+LVC1G17_OUT_50       1Gbps                2.88627e-09          3.41883e-09          4.22462e-09          2.88553e-09          3.50088e-09          4.22211e-09         
+LVC1G17_OUT_50       0.2Gbps              2.88627e-09          3.41883e-09          4.22462e-09          2.88554e-09          3.50209e-09          4.242e-09           
